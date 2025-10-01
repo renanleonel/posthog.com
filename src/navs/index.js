@@ -1360,6 +1360,10 @@ export const handbookSidebar = [
                         url: '/handbook/growth/sales/selling-via-aws',
                     },
                     {
+                        name: 'Professional services',
+                        url: '/handbook/growth/sales/professional-services',
+                    },
+                    {
                         name: 'How we work',
                         url: '/handbook/growth/sales/how-we-work',
                         children: [
